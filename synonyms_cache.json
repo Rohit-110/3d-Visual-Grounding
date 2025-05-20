@@ -1,3 +1,2454 @@
 {
-  "this is the wood and fabric desk chair with arms . it is in front of the desk and to the right of the sofa .": {}
+  "this is the wood and fabric desk chair with arms . it is in front of the desk and to the right of the sofa .": {},
+  "bathroom": [
+    "washroom",
+    "restroom",
+    "lavatory",
+    "loo",
+    "toilet"
+  ],
+  "hallway landing": [
+    "landing",
+    "passage",
+    "hall",
+    "corridor",
+    "foyer"
+  ],
+  "chair": [
+    "seat",
+    "stool",
+    "throne",
+    "chair",
+    "bench"
+  ],
+  "sofa": [
+    "couch",
+    "settee",
+    "davenport",
+    "chesterfield",
+    "divan"
+  ],
+  "desk": [
+    "table",
+    "bureau",
+    "escritoire",
+    "console",
+    "counter"
+  ],
+  "table": [
+    "board",
+    "desk",
+    "counter",
+    "slab",
+    "surface"
+  ],
+  "wall": [
+    "barrier",
+    "partition",
+    "fence",
+    "rampart",
+    "bulwark"
+  ],
+  "coffee table": [
+    "coffeepot",
+    "table",
+    "stand",
+    "sidetable",
+    "lowtable"
+  ],
+  "shower": [
+    "rain",
+    "spray",
+    "downpour",
+    "deluge",
+    "sprinkling"
+  ],
+  "box": [
+    "container",
+    "crate",
+    "chest",
+    "case",
+    "carton"
+  ],
+  "sink": [
+    "basin",
+    "washbasin",
+    "lavatory",
+    "handbasin",
+    "bowl"
+  ],
+  "trash can": [
+    "bin",
+    "receptacle",
+    "container",
+    "garbage",
+    "can"
+  ],
+  "whiteboard": [
+    "board",
+    "markerboard",
+    "whiteboard",
+    "screen"
+  ],
+  "baseboard": [
+    "skirting",
+    "plinth",
+    "wainscot",
+    "dado",
+    "moulding"
+  ],
+  "shelf": [
+    "rack",
+    "shelf",
+    "table",
+    "stand",
+    "layer"
+  ],
+  "door": [
+    "entrance",
+    "gateway",
+    "portal",
+    "opening",
+    "exit"
+  ],
+  "tv monitor": [
+    "screen",
+    "display",
+    "monitor",
+    "receiver",
+    "television"
+  ],
+  "curtain": [
+    "drape",
+    "screen",
+    "blind",
+    "shade",
+    "tapestry"
+  ],
+  "rug": [
+    "carpet",
+    "mat",
+    "covering",
+    "floorcloth",
+    "throw"
+  ],
+  "jugs": [
+    "pitchers",
+    "containers",
+    "pots",
+    "urns",
+    "vessels"
+  ],
+  "row": [
+    "line",
+    "rank",
+    "series",
+    "string",
+    "sequence"
+  ],
+  "footrest": [
+    "rest",
+    "support",
+    "stool",
+    "stand",
+    "pedestal"
+  ],
+  "nightstand": [
+    "bedside",
+    "stand",
+    "table",
+    "cabinet",
+    "chest"
+  ],
+  "bed": [
+    "couch",
+    "cot",
+    "mattress",
+    "sleeper",
+    "bunk"
+  ],
+  "window": [
+    "pane",
+    "casement",
+    "light",
+    "aperture",
+    "opening"
+  ],
+  "entrance": [
+    "entry",
+    "access",
+    "doorway",
+    "gateway",
+    "ingress"
+  ],
+  "mini fridge": [
+    "refrigerator",
+    "icebox",
+    "cooler",
+    "chiller",
+    "fridge"
+  ],
+  "vanity": [
+    "conceit",
+    "pride",
+    "egotism",
+    "self-love",
+    "narcissism"
+  ],
+  "seat": [
+    "chair",
+    "bench",
+    "stool",
+    "throne",
+    "position"
+  ],
+  "towel": [
+    "cloth",
+    "rag",
+    "dryer",
+    "sponge",
+    "chamois"
+  ],
+  "rack": [
+    "shelf",
+    "stand",
+    "frame",
+    "holder",
+    "support"
+  ],
+  "toilet": [
+    "lavatory",
+    "restroom",
+    "loo",
+    "wc",
+    "latrine"
+  ],
+  "toilet paper holder": [
+    "dispenser",
+    "holder",
+    "rack",
+    "shelf",
+    "stand"
+  ],
+  "couch": [
+    "sofa",
+    "settee",
+    "divan",
+    "davenport",
+    "chesterfield"
+  ],
+  "divider": [
+    "separator",
+    "partition",
+    "barrier",
+    "screen",
+    "division"
+  ],
+  "bench": [
+    "seat",
+    "stool",
+    "form",
+    "settee",
+    "pew"
+  ],
+  "end table": [
+    "stand",
+    "sideboard",
+    "table",
+    "pedestal",
+    "nightstand"
+  ],
+  "bookshelf": [
+    "shelf",
+    "rack",
+    "stand",
+    "case",
+    "unit"
+  ],
+  "book or magazine": [
+    "publication",
+    "periodical",
+    "journal",
+    "brochure",
+    "pamphlet"
+  ],
+  "office chair": [
+    "chair",
+    "seat",
+    "stool",
+    "armchair"
+  ],
+  "windows": [
+    "panes",
+    "apertures",
+    "openings",
+    "casements",
+    "lights"
+  ],
+  "radiator": [
+    "heater",
+    "radiant",
+    "convector",
+    "warmer",
+    "cooler"
+  ],
+  "cart": [
+    "wagon",
+    "carriage",
+    "truck",
+    "barrow",
+    "dray"
+  ],
+  "printer": [
+    "printout",
+    "impression",
+    "printing",
+    "press",
+    "copier"
+  ],
+  "picture": [
+    "image",
+    "photo",
+    "photograph",
+    "portrait",
+    "illustration"
+  ],
+  "ottoman": [
+    "pouf",
+    "cushion",
+    "hassock",
+    "footstool",
+    "bench"
+  ],
+  "conference table": [
+    "table",
+    "desk",
+    "board",
+    "counter",
+    "surface"
+  ],
+  "computer monitor": [
+    "screen",
+    "display",
+    "monitor",
+    "screen",
+    "visual"
+  ],
+  "cabinet": [
+    "cupboard",
+    "closet",
+    "locker",
+    "chest",
+    "wardrobe"
+  ],
+  "booth": [
+    "stall",
+    "stand",
+    "kiosk",
+    "cabin",
+    "compartment"
+  ],
+  "file cabinet": [
+    "cabinet",
+    "filing-cabinet",
+    "file",
+    "cabinet",
+    "archives"
+  ],
+  "armchair": [
+    "lounger",
+    "recliner",
+    "chair",
+    "seat",
+    "cushion"
+  ],
+  "toilet paper dispenser": [
+    "dispenser",
+    "holder",
+    "rack",
+    "case",
+    "unit"
+  ],
+  "pillow": [
+    "cushion",
+    "bolster",
+    "pillowslip",
+    "headrest",
+    "pad"
+  ],
+  "board": [
+    "panel",
+    "plank",
+    "sheet",
+    "table",
+    "council"
+  ],
+  "urinal": [
+    "pissoir",
+    "toilet",
+    "lavatory",
+    "john",
+    "water-closet"
+  ],
+  "cabinets": [
+    "cupboards",
+    "lockers",
+    "closets",
+    "wardrobes",
+    "chests"
+  ],
+  "monitor": [
+    "screen",
+    "display",
+    "superviser",
+    "overseer",
+    "viewer"
+  ],
+  "object": [
+    "item",
+    "thing",
+    "article",
+    "entity",
+    "element"
+  ],
+  "computer stand": [
+    "rack",
+    "stand",
+    "base",
+    "pedestal",
+    "support"
+  ],
+  "kitchen cabinets": [
+    "cupboards",
+    "cabinetry",
+    "shelves",
+    "units",
+    "storage"
+  ],
+  "chalkboards": [
+    "blackboards",
+    "boards",
+    "slates",
+    "panels",
+    "walls"
+  ],
+  "water heater": [
+    "heater",
+    "boiler",
+    "geyser",
+    "thermosiphon",
+    "calorifier"
+  ],
+  "blinds": [
+    "shades",
+    "screens",
+    "shutters",
+    "venetians",
+    "drapes"
+  ],
+  "bathroom sink": [
+    "lavatory",
+    "basin",
+    "washbasin",
+    "handbasin",
+    "sink"
+  ],
+  "laptop": [
+    "notebook",
+    "computer",
+    "notebookcomputer",
+    "portable",
+    "laptopcomputer"
+  ],
+  "lamp": [
+    "light",
+    "luminary",
+    "lantern",
+    "lamplight",
+    "flare"
+  ],
+  "kitchen cabinet": [
+    "cupboard",
+    "closet",
+    "shelving",
+    "dresser",
+    "pantry"
+  ],
+  "lavatory": [
+    "toilet",
+    "restroom",
+    "bathroom",
+    "washroom",
+    "loo"
+  ],
+  "vending machine": [
+    "dispenser",
+    "vendor",
+    "automat",
+    "machine",
+    "seller"
+  ],
+  "storage compartment": [
+    "locker",
+    "compartment",
+    "bin",
+    "container",
+    "hold"
+  ],
+  "soap dispenser": [
+    "dispenser",
+    "soapdish",
+    "container",
+    "applicator",
+    "bottle"
+  ],
+  "stool": [
+    "seat",
+    "chair",
+    "throne",
+    "bench",
+    "tabouret"
+  ],
+  "ping pong table": [
+    "table",
+    "paddle",
+    "table-tennis",
+    "pingpong",
+    "tennis"
+  ],
+  "towels": [
+    "cloths",
+    "rags",
+    "linens",
+    "washcloths",
+    "dusters"
+  ],
+  "compost bin": [
+    "composter",
+    "bin",
+    "container",
+    "receptacle",
+    "compost"
+  ],
+  "vanity top": [
+    "countertop",
+    "vanity",
+    "surface",
+    "top",
+    "counter"
+  ],
+  "recycling bin": [
+    "receptacle",
+    "container",
+    "bin",
+    "receptocle",
+    "collector"
+  ],
+  "toaster": [
+    "toaster",
+    "bread-toaster",
+    "toasting-machine",
+    "toaster-oven",
+    "toaster-stove"
+  ],
+  "keyboard": [
+    "keypad",
+    "keyboard",
+    "typewriter",
+    "keyer",
+    "input"
+  ],
+  "diaper bin": [
+    "receptacle",
+    "container",
+    "pail",
+    "bucket",
+    "hamper"
+  ],
+  "ironing board": [
+    "board",
+    "table",
+    "rest",
+    "surface",
+    "pad"
+  ],
+  "paper towel dispenser": [
+    "dispenser",
+    "holder",
+    "rack",
+    "case",
+    "unit"
+  ],
+  "storage bin": [
+    "container",
+    "receptacle",
+    "bin",
+    "hopper",
+    "holder"
+  ],
+  "office storage organizer": [
+    "organizer",
+    "tray",
+    "cabinet",
+    "container",
+    "file"
+  ],
+  "mirror": [
+    "reflector",
+    "looking-glass",
+    "glass",
+    "speculum",
+    "reflecting-surface"
+  ],
+  "drying rack": [
+    "rack",
+    "dryer",
+    "drainer",
+    "stand",
+    "grid"
+  ],
+  "laundry basket": [
+    "hamper",
+    "basket",
+    "container",
+    "bin",
+    "receptacle"
+  ],
+  "computer tower": [
+    "chassis",
+    "tower",
+    "case",
+    "unit",
+    "system"
+  ],
+  "traffic cone": [
+    "cone",
+    "pillar",
+    "pylon",
+    "marker",
+    "indicator"
+  ],
+  "shelves": [
+    "racks",
+    "shelving",
+    "storage",
+    "units",
+    "cases"
+  ],
+  "shopping bag": [
+    "tote",
+    "bag",
+    "carrier",
+    "sack",
+    "purse"
+  ],
+  "copier": [
+    "photocopier",
+    "duplicator",
+    "xerox",
+    "machine",
+    "printer"
+  ],
+  "filing cabinet": [
+    "cabinet",
+    "file",
+    "drawer",
+    "container",
+    "archive"
+  ],
+  "tv": [
+    "television",
+    "tele",
+    "screen",
+    "tube",
+    "set"
+  ],
+  "arm chair": [
+    "chair",
+    "lounger",
+    "recliner",
+    "settee"
+  ],
+  "fan": [
+    "enthusiast",
+    "devotee",
+    "aficionado",
+    "buff",
+    "follower"
+  ],
+  "loft bed": [
+    "bunk",
+    "highbed",
+    "mezzanine",
+    "sleeploft",
+    "loft"
+  ],
+  "refrigerator": [
+    "icebox",
+    "fridge",
+    "cooler",
+    "refrigerator",
+    "chillbox"
+  ],
+  "bin": [
+    "container",
+    "receptacle",
+    "holder",
+    "bucket",
+    "can"
+  ],
+  "mouse": [
+    "rodent",
+    "mouser",
+    "mousey",
+    "mus",
+    "murine"
+  ],
+  "shoe shelf": [
+    "rack",
+    "stand",
+    "shelf",
+    "cubby",
+    "recess"
+  ],
+  "shoe rack": [
+    "stand",
+    "rack",
+    "shelf",
+    "holder",
+    "organizer"
+  ],
+  "closet doors": [
+    "doors",
+    "panels",
+    "folds",
+    "wings",
+    "leaves"
+  ],
+  "suitcase": [
+    "bag",
+    "luggage",
+    "valise",
+    "trunk",
+    "case"
+  ],
+  "washing machine": [
+    "washer",
+    "laundry",
+    "appliance",
+    "automaton",
+    "cycle"
+  ],
+  "water fountain": [
+    "fountain",
+    "bubbler",
+    "jet",
+    "spring",
+    "spout"
+  ],
+  "sofa chair": [
+    "couch",
+    "settee",
+    "loveseat",
+    "davenport",
+    "chesterfield"
+  ],
+  "panel": [
+    "board",
+    "group",
+    "committee",
+    "squad",
+    "section"
+  ],
+  "floor fan": [
+    "fan",
+    "blower",
+    "oscillator",
+    "circulator",
+    "ventilator"
+  ],
+  "toilet paper": [
+    "tissue",
+    "toiletries",
+    "paper",
+    "tissuepaper",
+    "wipe"
+  ],
+  "mattress": [
+    "bed",
+    "cushion",
+    "pallet",
+    "pad",
+    "mattress"
+  ],
+  "kitchen counter": [
+    "surface",
+    "countertop",
+    "bench",
+    "table",
+    "top"
+  ],
+  "hot water heater": [
+    "geyser",
+    "boiler",
+    "heater",
+    "thermosiphon"
+  ],
+  "desk chair": [
+    "chair",
+    "seat",
+    "stool",
+    "cushion",
+    "saddle"
+  ],
+  "shower curtain": [
+    "drape",
+    "curtain",
+    "liner",
+    "covering",
+    "shield"
+  ],
+  "closet door": [
+    "door",
+    "panel",
+    "flap",
+    "valve",
+    "gate"
+  ],
+  "document organizer": [
+    "portfolio",
+    "binder",
+    "folder",
+    "file",
+    "tray"
+  ],
+  "step stool": [
+    "stool",
+    "footstool",
+    "stepladder",
+    "bench",
+    "platform"
+  ],
+  "button": [
+    "knob",
+    "push",
+    "stud",
+    "switch",
+    "snap"
+  ],
+  "surface": [
+    "exterior",
+    "face",
+    "top",
+    "outside",
+    "front"
+  ],
+  "bar": [
+    "rod",
+    "stick",
+    "pole",
+    "rail",
+    "counter"
+  ],
+  "dresser table": [
+    "vanity",
+    "bureau",
+    "chest",
+    "commode",
+    "dressing-table"
+  ],
+  "clothes dryers": [
+    "dryers",
+    "tumblers",
+    "driers",
+    "spinners",
+    "dehydrators"
+  ],
+  "bunk bed": [
+    "bunk",
+    "bed",
+    "cot",
+    "loft",
+    "double"
+  ],
+  "book rack": [
+    "shelf",
+    "stand",
+    "rack",
+    "holder",
+    "display"
+  ],
+  "rack stand": [
+    "stand",
+    "holder",
+    "rest",
+    "support",
+    "shelf"
+  ],
+  "recycle bin": [
+    "trash",
+    "garbage",
+    "wastebasket",
+    "receptacle",
+    "container"
+  ],
+  "toolbox": [
+    "kit",
+    "chest",
+    "case",
+    "container",
+    "crate"
+  ],
+  "kitchen unit": [
+    "cabinet",
+    "cupboard",
+    "closet",
+    "shelf",
+    "module"
+  ],
+  "outlet": [
+    "vent",
+    "opening",
+    "shop",
+    "store",
+    "passage"
+  ],
+  "storage box": [
+    "container",
+    "chest",
+    "bin",
+    "crate",
+    "receptacle"
+  ],
+  "bathtub": [
+    "tub",
+    "bath",
+    "lavatory",
+    "basin",
+    "shower"
+  ],
+  "curtains": [
+    "drapes",
+    "hangings",
+    "draperies",
+    "screens",
+    "blinds"
+  ],
+  "computer case": [
+    "chassis",
+    "casing",
+    "housing",
+    "enclosure",
+    "container"
+  ],
+  "organizer shelf": [
+    "rack",
+    "shelf",
+    "stand",
+    "unit",
+    "holder"
+  ],
+  "toilet bowl": [
+    "commode",
+    "lavatory",
+    "john",
+    "loo",
+    "throne"
+  ],
+  "container": [
+    "receptacle",
+    "vessel",
+    "holder",
+    "case",
+    "box"
+  ],
+  "television": [
+    "tv",
+    "tele",
+    "screen",
+    "tube",
+    "set"
+  ],
+  "microwave": [
+    "oven",
+    "radiarange",
+    "nuwave",
+    "speedoven"
+  ],
+  "rice cooker": [
+    "cooker",
+    "boiler",
+    "pot",
+    "steamer"
+  ],
+  "throw pillow": [
+    "cushion",
+    "pillow",
+    "bolster",
+    "pillo",
+    "tosspillow"
+  ],
+  "trashcan": [
+    "bin",
+    "receptacle",
+    "container",
+    "dustbin"
+  ],
+  "kitchen island": [
+    "counter",
+    "isle",
+    "table",
+    "block",
+    "unit"
+  ],
+  "toilet paper roll": [
+    "roll",
+    "tissue",
+    "toilet",
+    "paper",
+    "cylindar"
+  ],
+  "stand": [
+    "stall",
+    "posture",
+    "position",
+    "stance",
+    "support"
+  ],
+  "tool box": [
+    "chest",
+    "case",
+    "kit",
+    "container",
+    "carrier"
+  ],
+  "cabinet door": [
+    "panel",
+    "door",
+    "flap",
+    "lid",
+    "shutter"
+  ],
+  "hair": [
+    "tresses",
+    "locks",
+    "mane",
+    "hairline",
+    "coiffure"
+  ],
+  "tray rack": [
+    "holder",
+    "stand",
+    "rack",
+    "carrier",
+    "shelf"
+  ],
+  "tank": [
+    "reservoir",
+    "cistern",
+    "container",
+    "holder",
+    "tanker"
+  ],
+  "fridge": [
+    "refrigerator",
+    "icebox",
+    "cooler",
+    "refrigerator",
+    "chiller"
+  ],
+  "bucket": [
+    "pail",
+    "tub",
+    "container",
+    "pail",
+    "bin"
+  ],
+  "shower seat": [
+    "bench",
+    "stool",
+    "seat",
+    "chair",
+    "throne"
+  ],
+  "dining table": [
+    "table",
+    "board",
+    "counter",
+    "refectory",
+    "trestle"
+  ],
+  "dresser": [
+    "bureau",
+    "chest",
+    "cabinet",
+    "commode",
+    "vanity"
+  ],
+  "shelving unit": [
+    "rack",
+    "shelf",
+    "stand",
+    "unit",
+    "case"
+  ],
+  "paper cutter": [
+    "trimmer",
+    "cutter",
+    "guillotine",
+    "knife",
+    "blade"
+  ],
+  "wall surface": [
+    "facade",
+    "frontage",
+    "face",
+    "side",
+    "exterior"
+  ],
+  "counter": [
+    "bar",
+    "desk",
+    "table",
+    "stand",
+    "top"
+  ],
+  "soda dispensing machine": [
+    "dispenser",
+    "fountain",
+    "automat"
+  ],
+  "stabilizer": [
+    "balancer",
+    "steady",
+    "support",
+    "reinforcer",
+    "equalizer"
+  ],
+  "keyboard piano": [
+    "piano",
+    "keyboard",
+    "pianoforte",
+    "keyboards",
+    "instrument"
+  ],
+  "instrument case": [
+    "case",
+    "box",
+    "container",
+    "holder",
+    "casing"
+  ],
+  "caddy": [
+    "carrier",
+    "cart",
+    "container",
+    "holder",
+    "stand"
+  ],
+  "trash bin": [
+    "can",
+    "receptacle",
+    "container",
+    "bin",
+    "dustbin"
+  ],
+  "structure": [
+    "framework",
+    "construction",
+    "building",
+    "formation",
+    "design"
+  ],
+  "chest": [
+    "thorax",
+    "breast",
+    "trunk",
+    "pectus",
+    "bosom"
+  ],
+  "bathroom stall door": [
+    "door",
+    "entryway",
+    "portal",
+    "gate",
+    "hatch"
+  ],
+  "bathroom vanity": [
+    "sink",
+    "washstand",
+    "vanity",
+    "lavatory",
+    "counter"
+  ],
+  "toilet troll": [
+    "lout",
+    "boor",
+    "oaf",
+    "churl",
+    "brute"
+  ],
+  "shelf and storage case": [
+    "cabinet",
+    "unit",
+    "rack",
+    "compartment",
+    "bin"
+  ],
+  "countertop": [
+    "surface",
+    "top",
+    "bench",
+    "counter",
+    "slab"
+  ],
+  "set of bottom kitchen cabinets": [
+    "base",
+    "stand",
+    "cabinetry",
+    "furniture",
+    "units"
+  ],
+  "shower curtains": [
+    "drapes",
+    "curtains",
+    "liners",
+    "hangings",
+    "screens"
+  ],
+  "guitar bag": [
+    "case",
+    "gigbag",
+    "carrier",
+    "container",
+    "cover"
+  ],
+  "counter top": [
+    "surface",
+    "top",
+    "counter",
+    "worktop",
+    "bench"
+  ],
+  "crib": [
+    "manger",
+    "cot",
+    "cradle",
+    "bed",
+    "bassinet"
+  ],
+  "desktop surface": [
+    "top",
+    "surface",
+    "desk",
+    "counter",
+    "table"
+  ],
+  "computer": [
+    "machine",
+    "device",
+    "system",
+    "calculator",
+    "processor"
+  ],
+  "flush button": [
+    "button",
+    "pusher",
+    "switch",
+    "control",
+    "actuator"
+  ],
+  "blanket": [
+    "cover",
+    "spread",
+    "throw",
+    "rug",
+    "wrap"
+  ],
+  "hamper": [
+    "basket",
+    "container",
+    "basket",
+    "obstruction",
+    "hindrance"
+  ],
+  "white board": [
+    "board",
+    "panel",
+    "surface",
+    "screen",
+    "markerboard"
+  ],
+  "dry erase board": [
+    "whiteboard",
+    "board",
+    "markerboard",
+    "dryboard",
+    "eraseboard"
+  ],
+  "garbage can": [
+    "dustbin",
+    "bin",
+    "receptacle",
+    "container"
+  ],
+  "dispenser": [
+    "dispenser",
+    "vendor",
+    "distributor",
+    "provider",
+    "giver"
+  ],
+  "toaster oven": [
+    "oven",
+    "toaster",
+    "broiler",
+    "convection",
+    "cooker"
+  ],
+  "laundry hamper": [
+    "basket",
+    "container",
+    "hamper",
+    "bin",
+    "bucket"
+  ],
+  "cylinder": [
+    "tube",
+    "roller",
+    "column",
+    "drum",
+    "barrel"
+  ],
+  "mini-fridge": [
+    "refrigerator",
+    "cooler",
+    "chiller",
+    "icebox",
+    "fridge"
+  ],
+  "magazine rack": [
+    "stand",
+    "holder",
+    "rack",
+    "shelf",
+    "display"
+  ],
+  "cabinet section": [
+    "compartment",
+    "section",
+    "cubby",
+    "locker",
+    "drawer"
+  ],
+  "side table": [
+    "stand",
+    "table",
+    "pedestal",
+    "nightstand",
+    "endtable"
+  ],
+  "clothes dryer": [
+    "dryer",
+    "tumble-dryer",
+    "drier",
+    "dehydrator",
+    "spin-dryer"
+  ],
+  "canvas artwork": [
+    "painting",
+    "picture",
+    "artwork",
+    "canvas",
+    "painting"
+  ],
+  "desktop computer": [
+    "pc",
+    "computer",
+    "desktop",
+    "machine",
+    "system"
+  ],
+  "heating and cooling unit": [
+    "hvac",
+    "climate-control",
+    "air-conditioner",
+    "heater",
+    "thermostat"
+  ],
+  "cooker": [
+    "oven",
+    "stove",
+    "range",
+    "boiler",
+    "hob"
+  ],
+  "oven": [
+    "kiln",
+    "baker",
+    "stove",
+    "range",
+    "furnace"
+  ],
+  "receptacle": [
+    "container",
+    "holder",
+    "vessel",
+    "receiver",
+    "repository"
+  ],
+  "bookcase": [
+    "shelf",
+    "rack",
+    "stand",
+    "cabinet",
+    "unit"
+  ],
+  "cushion": [
+    "pad",
+    "pillow",
+    "buffer",
+    "bolster",
+    "bumper"
+  ],
+  "storage unit": [
+    "locker",
+    "bin",
+    "container",
+    "repository",
+    "depot"
+  ],
+  "furniture": [
+    "furnishings",
+    "fixtures",
+    "fittings",
+    "equipment",
+    "appliances"
+  ],
+  "towel board": [
+    "rack",
+    "dryer",
+    "holder",
+    "stand",
+    "shelf"
+  ],
+  "computer screen": [
+    "display",
+    "monitor",
+    "screen",
+    "console",
+    "terminal"
+  ],
+  "washer": [
+    "gasket",
+    "seal",
+    "packing",
+    "ferrule",
+    "liner"
+  ],
+  "appliance": [
+    "device",
+    "gadget",
+    "machine",
+    "implement",
+    "tool"
+  ],
+  "cupboard": [
+    "closet",
+    "press",
+    "cabinet",
+    "locker",
+    "shelf"
+  ],
+  "washing clothes machine": [
+    "washer",
+    "laundry",
+    "machine",
+    "appliance",
+    "wash"
+  ],
+  "breakfast bar": [
+    "counter",
+    "buffet",
+    "table",
+    "bar",
+    "station"
+  ],
+  "kitchen cabinet unit": [
+    "cupboard",
+    "closet",
+    "cabinet",
+    "dresser",
+    "shelf"
+  ],
+  "bar table": [
+    "counter",
+    "stand",
+    "table",
+    "desk",
+    "bar"
+  ],
+  "storage tote": [
+    "bin",
+    "container",
+    "box",
+    "tub",
+    "crate"
+  ],
+  "shelving": [
+    "racks",
+    "shelves",
+    "storage",
+    "units",
+    "stacking"
+  ],
+  "shower door": [
+    "enclosure",
+    "screen",
+    "panel",
+    "shield",
+    "door"
+  ],
+  "clothing rack": [
+    "rack",
+    "stand",
+    "hanger",
+    "display",
+    "tree"
+  ],
+  "painting": [
+    "picture",
+    "artwork",
+    "canvas",
+    "masterpiece",
+    "illustration"
+  ],
+  "snack machine": [
+    "vending",
+    "dispenser",
+    "machine",
+    "automat",
+    "vendor"
+  ],
+  "computer keyboard": [
+    "keyboard",
+    "keypad",
+    "typewriter",
+    "input",
+    "terminal"
+  ],
+  "chalkboard": [
+    "blackboard",
+    "chalkboard",
+    "board",
+    "slate",
+    "\uce60\ud310"
+  ],
+  "tissue holder": [
+    "dispenser",
+    "container",
+    "holder",
+    "case",
+    "box"
+  ],
+  "pool table": [
+    "pool",
+    "table",
+    "billiards",
+    "snooker",
+    "pocket"
+  ],
+  "cushioned object": [
+    "pad",
+    "pillow",
+    "cushion",
+    "buffer",
+    "bolster"
+  ],
+  "tote": [
+    "bag",
+    "sack",
+    "pack",
+    "container",
+    "handbag"
+  ],
+  "shelving addition": [
+    "extension",
+    "supplement",
+    "augmentation",
+    "increase",
+    "addition"
+  ],
+  "trim": [
+    "decoration",
+    "edging",
+    "border",
+    "fringe",
+    "finish"
+  ],
+  "furnace": [
+    "oven",
+    "kiln",
+    "heater",
+    "stove",
+    "boiler"
+  ],
+  "laptop computer": [
+    "notebook",
+    "laptop",
+    "notebookcomputer",
+    "computer",
+    "portable"
+  ],
+  "tissue box": [
+    "container",
+    "dispenser",
+    "holder",
+    "case",
+    "box"
+  ],
+  "closet wardrobe": [
+    "wardrobe",
+    "closet",
+    "press",
+    "armoire",
+    "cupboard"
+  ],
+  "unit": [
+    "element",
+    "component",
+    "module",
+    "section",
+    "piece"
+  ],
+  "chest of drawers": [
+    "dresser",
+    "bureau",
+    "chest",
+    "commode",
+    "cabinet"
+  ],
+  "waste basket": [
+    "trashcan",
+    "dustbin",
+    "bin",
+    "receptacle",
+    "can"
+  ],
+  "machine": [
+    "engine",
+    "device",
+    "mechanism",
+    "apparatus",
+    "instrument"
+  ],
+  "cube": [
+    "hexahedron",
+    "block",
+    "die",
+    "cubelet",
+    "square"
+  ],
+  "computer monitor screen": [
+    "display",
+    "screen",
+    "monitor",
+    "console",
+    "panel"
+  ],
+  "double doors": [
+    "entryway",
+    "portal",
+    "gateway",
+    "doorway",
+    "entrance"
+  ],
+  "knapsack": [
+    "backpack",
+    "rucksack",
+    "haversack",
+    "pack",
+    "saddlebag"
+  ],
+  "item": [
+    "article",
+    "object",
+    "thing",
+    "element",
+    "unit"
+  ],
+  "wine rack": [
+    "rack",
+    "stand",
+    "holder",
+    "credenza",
+    "shelf"
+  ],
+  "night stand": [
+    "table",
+    "stand",
+    "sideboard",
+    "chest",
+    "cabinet"
+  ],
+  "accent pillow": [
+    "cushion",
+    "pillow",
+    "bolster",
+    "throw",
+    "pad"
+  ],
+  "hand rail": [
+    "banister",
+    "rail",
+    "balustrade",
+    "railing",
+    "guardrail"
+  ],
+  "wardrobe": [
+    "closet",
+    "garb",
+    "clothes",
+    "ward",
+    "attire"
+  ],
+  "toilet roll": [
+    "tissue",
+    "paper",
+    "roll",
+    "towels"
+  ],
+  "portion": [
+    "part",
+    "share",
+    "section",
+    "piece",
+    "segment"
+  ],
+  "sheet": [
+    "blanket",
+    "cover",
+    "spread",
+    "sheet",
+    "linen"
+  ],
+  "futon": [
+    "mattress",
+    "couch",
+    "bed",
+    "sofa",
+    "sleeper"
+  ],
+  "box-like object": [
+    "container",
+    "crate",
+    "chest",
+    "case",
+    "bin"
+  ],
+  "closet": [
+    "wardrobe",
+    "cupboard",
+    "locker",
+    "press",
+    "armoire"
+  ],
+  "seat stool": [
+    "stool",
+    "chair",
+    "bench",
+    "throne",
+    "seat"
+  ],
+  "drawer": [
+    "tray",
+    "slide",
+    "compartment",
+    "container",
+    "shelf"
+  ],
+  "backpack": [
+    "knapsack",
+    "rucksack",
+    "haversack",
+    "pack",
+    "satchel"
+  ],
+  "office organization furniture": [
+    "desks",
+    "chairs",
+    "tables",
+    "shelving"
+  ],
+  "piano": [
+    "keyboard",
+    "piano",
+    "forte",
+    "pianoforte",
+    "keyboards"
+  ],
+  "tv screen": [
+    "screen",
+    "display",
+    "monitor",
+    "viewer",
+    "televisor"
+  ],
+  "cone": [
+    "cone",
+    "apex",
+    "peak",
+    "point",
+    "summit"
+  ],
+  "top": [
+    "summit",
+    "peak",
+    "crest",
+    "apex",
+    "crown"
+  ],
+  "clothing": [
+    "apparel",
+    "attire",
+    "garments",
+    "raiment",
+    "clothes"
+  ],
+  "loveseat": [
+    "settee",
+    "couch",
+    "sofa",
+    "davenport",
+    "loveseat"
+  ],
+  "cork board": [
+    "pinboard",
+    "board",
+    "tackboard"
+  ],
+  "table stand": [
+    "easel",
+    "rest",
+    "holder",
+    "support",
+    "pedestal"
+  ],
+  "platform": [
+    "stage",
+    "stand",
+    "base",
+    "podium",
+    "rostrum"
+  ],
+  "face towel": [
+    "washcloth",
+    "towel",
+    "cloth",
+    "rag",
+    "wipe"
+  ],
+  "table top surface": [
+    "surface",
+    "top",
+    "counter",
+    "board",
+    "plane"
+  ],
+  "stove": [
+    "range",
+    "oven",
+    "cooker",
+    "burner",
+    "heater"
+  ],
+  "heater": [
+    "warmer",
+    "radiator",
+    "furnace",
+    "stove",
+    "boiler"
+  ],
+  "safe unit": [
+    "vault",
+    "strongbox",
+    "safe",
+    "locker",
+    "case"
+  ],
+  "strip of cabinets": [
+    "bank",
+    "run",
+    "row",
+    "range",
+    "line"
+  ],
+  "window seal ledge": [
+    "sill",
+    "shelf",
+    "ledge",
+    "apron",
+    "recess"
+  ],
+  "cabinets and drawers": [
+    "cupboards",
+    "chests",
+    "drawers",
+    "storage",
+    "furniture"
+  ],
+  "janitor cart": [
+    "cart",
+    "truck",
+    "wheelie",
+    "bin",
+    "container"
+  ],
+  "kitchen": [
+    "galley",
+    "cookhouse",
+    "scullery",
+    "pantry",
+    "cuisine"
+  ],
+  "kitchen sink": [
+    "sink",
+    "basin",
+    "washbasin",
+    "lavatory",
+    "washbowl"
+  ],
+  "boiler": [
+    "caldron",
+    "kettle",
+    "tank",
+    "urn",
+    "boiler"
+  ],
+  "faucet": [
+    "tap",
+    "spigot",
+    "cock",
+    "spout",
+    "nozzle"
+  ],
+  "stack": [
+    "pile",
+    "heap",
+    "stack",
+    "riff",
+    "layer"
+  ],
+  "table top": [
+    "surface",
+    "top",
+    "counter",
+    "board",
+    "slab"
+  ],
+  "article of clothing": [
+    "garment",
+    "clothing",
+    "apparel",
+    "attire",
+    "raiment"
+  ],
+  "bag": [
+    "sack",
+    "pouch",
+    "purse",
+    "satchel",
+    "container"
+  ],
+  "bathrobe": [
+    "robe",
+    "gown",
+    "dressing-gown",
+    "bathgown",
+    "wrapper"
+  ],
+  "shoe cabinet": [
+    "shelving",
+    "rack",
+    "stand",
+    "cupboard",
+    "cabinet"
+  ],
+  "office desk": [
+    "desk",
+    "escritoire",
+    "workstation",
+    "bureau",
+    "console"
+  ],
+  "recycling trash can": [
+    "bin",
+    "receptacle",
+    "container",
+    "recycler",
+    "chute"
+  ],
+  "crate": [
+    "box",
+    "container",
+    "chest",
+    "case",
+    "bin"
+  ],
+  "backsack": [
+    "knapsack",
+    "rucksack",
+    "pack",
+    "haversack",
+    "backpack"
+  ],
+  "table leg": [
+    "leg",
+    "support",
+    "pillar",
+    "post",
+    "pedestal"
+  ],
+  "wall cabinet": [
+    "cupboard",
+    "shelving",
+    "closet",
+    "press",
+    "locker"
+  ],
+  "washbasin": [
+    "basin",
+    "sink",
+    "lavatory",
+    "washbowl",
+    "handbasin"
+  ],
+  "imac computer": [
+    "imac",
+    "computer",
+    "desktop",
+    "machine",
+    "system"
+  ],
+  "rackstand": [
+    "stand",
+    "holder",
+    "rest",
+    "support",
+    "shelf"
+  ],
+  "bookshelves": [
+    "shelves",
+    "racks",
+    "units",
+    "cabinets",
+    "cases"
+  ],
+  "island": [
+    "isle",
+    "islet",
+    "archipelago",
+    "cay",
+    "atoll"
+  ],
+  "roll of toilet paper": [
+    "tissue",
+    "roll"
+  ],
+  "bottle": [
+    "flask",
+    "container",
+    "carafe",
+    "phial",
+    "jug"
+  ],
+  "basket": [
+    "hamper",
+    "container",
+    "basket",
+    "creel",
+    "tote"
+  ],
+  "book shelf": [
+    "shelf",
+    "rack",
+    "stand",
+    "case",
+    "unit"
+  ],
+  "stall door": [
+    "door",
+    "hatch",
+    "gate",
+    "flap",
+    "panel"
+  ],
+  "towel dispenser": [
+    "dispenser",
+    "dispensary",
+    "rack",
+    "holder",
+    "unit"
+  ],
+  "washing machines": [
+    "washers",
+    "laundresses",
+    "launderers",
+    "washes",
+    "cleaners"
+  ],
+  "doors": [
+    "entrances",
+    "exits",
+    "gateways",
+    "openings",
+    "portals"
+  ],
+  "entry door": [
+    "entrance",
+    "doorway",
+    "portal",
+    "entry",
+    "gateway"
+  ],
+  "clothe": [
+    "garment",
+    "clothing",
+    "apparel",
+    "raiment",
+    "attire"
+  ],
+  "storage container": [
+    "bin",
+    "container",
+    "receptacle",
+    "vessel",
+    "hold"
+  ],
+  "telephone": [
+    "phone",
+    "telephone",
+    "receiver",
+    "handset",
+    "dial"
+  ],
+  "partition": [
+    "division",
+    "separation",
+    "divider",
+    "section",
+    "barrier"
+  ],
+  "storage case": [
+    "container",
+    "case",
+    "box",
+    "chest",
+    "receptacle"
+  ],
+  "storage cabinet/dresser": [
+    "chest",
+    "cabinet",
+    "cupboard",
+    "locker",
+    "wardrobe"
+  ],
+  "tv set": [
+    "television",
+    "receiver",
+    "screen",
+    "televisor",
+    "set"
+  ],
+  "hard drive tower": [
+    "enclosure",
+    "chassis",
+    "tower",
+    "cabinet",
+    "case"
+  ],
+  "guitar case": [
+    "container",
+    "case",
+    "box",
+    "holder",
+    "carrying-case"
+  ],
+  "video monitor": [
+    "screen",
+    "display",
+    "monitor",
+    "viewer",
+    "screen"
+  ],
+  "couch end": [
+    "arm",
+    "end",
+    "edge",
+    "side",
+    "extremity"
+  ],
+  "air conditioning unit": [
+    "ac",
+    "cooler",
+    "aircon",
+    "conditioner",
+    "unit"
+  ],
+  "cabinet shelf": [
+    "shelf",
+    "rack",
+    "cubby",
+    "compartment",
+    "niche"
+  ],
+  "set of shelves": [
+    "rack",
+    "shelf",
+    "shelving",
+    "unit",
+    "stand"
+  ],
+  "plate": [
+    "dish",
+    "platter",
+    "charger",
+    "disc",
+    "tray"
+  ],
+  "study cubical": [
+    "office",
+    "cubicle",
+    "cell",
+    "chamber",
+    "room"
+  ],
+  "bath towel": [
+    "towel",
+    "cloth",
+    "dryer",
+    "sponge",
+    "linens"
+  ],
+  "section of the wall": [
+    "portion",
+    "segment",
+    "part",
+    "area",
+    "section"
+  ],
+  "bar stool": [
+    "stool",
+    "chair",
+    "seat",
+    "perch",
+    "hocker"
+  ],
+  "fuse box": [
+    "breaker",
+    "panel",
+    "junction",
+    "box",
+    "distributor"
+  ],
+  "carpet": [
+    "rug",
+    "mat",
+    "covering",
+    "flooring",
+    "broadloom"
+  ],
+  "vase": [
+    "urn",
+    "jar",
+    "jug",
+    "pitcher",
+    "bowl"
+  ],
+  "plant": [
+    "fixture",
+    "fitting",
+    "appliance",
+    "device",
+    "equipment"
+  ],
+  "clock": [
+    "timer",
+    "watch",
+    "chronometer",
+    "timepiece",
+    "clock"
+  ],
+  "book": [
+    "tome",
+    "volume",
+    "text",
+    "manuscript",
+    "codex"
+  ],
+  "cup": [
+    "mug",
+    "goblet",
+    "bowl",
+    "tumbler",
+    "chalice"
+  ],
+  "glass": [
+    "pane",
+    "cup",
+    "bottle",
+    "jar",
+    "lens"
+  ],
+  "mug": [
+    "cup",
+    "tankard",
+    "vessel",
+    "goblet",
+    "mug"
+  ],
+  "trash": [
+    "rubbish",
+    "garbage",
+    "junk",
+    "debris",
+    "litter"
+  ],
+  "garbage": [
+    "trash",
+    "rubbish",
+    "junk",
+    "debris",
+    "litter"
+  ],
+  "stack of chairs": [
+    "pile",
+    "heap",
+    "stack",
+    "arrangement",
+    "assembly",
+    "group",
+    "cluster"
+  ],
+  "lampshade": [
+    "shade",
+    "diffuser",
+    "cover",
+    "shield",
+    "screen",
+    "cowl"
+  ],
+  "stove/oven combination": [
+    "range",
+    "cooker",
+    "hob",
+    "rangetop",
+    "burner",
+    "appliance",
+    "cooktop"
+  ],
+  "picture frame": [
+    "casing",
+    "molding",
+    "border",
+    "surround",
+    "frame",
+    "bezel",
+    "mount"
+  ],
+  "carry case": [
+    "container",
+    "holster",
+    "caddy",
+    "cradle",
+    "housing",
+    "tray",
+    "enclosure"
+  ],
+  "recliner": [
+    "lounger",
+    "chaise",
+    "chair",
+    "couch",
+    "settee",
+    "loveseat"
+  ],
+  "recliner chair": [
+    "lounger",
+    "recliner",
+    "chaise",
+    "armchair",
+    "seat"
+  ],
+  "tv stand": [
+    "console",
+    "stand",
+    "base",
+    "unit",
+    "cabinet",
+    "entertainment-center",
+    "rack"
+  ],
+  "copy machine": [
+    "duplicator",
+    "printer",
+    "replicator",
+    "scanner",
+    "copier",
+    "reproducer"
+  ],
+  "trash basket": [
+    "bin",
+    "receptacle",
+    "container",
+    "hopper",
+    "bucket",
+    "wastebasket",
+    "can"
+  ],
+  "window blinds": [
+    "shades",
+    "blinds",
+    "shutters",
+    "screens",
+    "louvers",
+    "venetians",
+    "banners"
+  ],
+  "kitchen counter top": [
+    "surface",
+    "top",
+    "counter",
+    "slab",
+    "plane",
+    "table",
+    "shelf"
+  ],
+  "bed cover": [
+    "blanket",
+    "quilt",
+    "spread",
+    "comforter",
+    "duvet",
+    "throw",
+    "coverlet"
+  ],
+  "bench sofa": [
+    "settee",
+    "sofa",
+    "couch",
+    "divan",
+    "chesterfield",
+    "loveseat",
+    "davenport"
+  ],
+  "love seat": [
+    "sofa",
+    "couch",
+    "settee",
+    "divan",
+    "loveseat",
+    "bench",
+    "chaise"
+  ]
 }

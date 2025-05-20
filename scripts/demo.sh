@@ -1,2 +1,1 @@
-python -m src.util.demo_ease --scan scene0025_00 \
-                      --prompt "monitor on table near window" 
+python -m src.check3 --scan_id scene0025_00 --sentence " I am bored, i want to watch a movie"

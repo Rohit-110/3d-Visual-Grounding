@@ -1,0 +1,1 @@
+python -m src.relation_encoders.compute_features --dataset scanrefer --output ./output --label pred
