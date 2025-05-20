@@ -61,6 +61,38 @@ data
 | `feats_3d.pkl` | Predicted object labels for Nr3D from ZSVG3D | [SharePoint Link](https://cuhko365-my.sharepoint.com/:u:/g/personal/221019046_link_cuhk_edu_cn/ERMP88uTVCNLhzofKub7MsMBvaRAFXVr5abbQUjRYyYDiA?e=x6aKC9) |
 | `tables.pkl` | Tables for code generation | [download_link](https://huggingface.co/datasets/yourusername/ease-dataset) |
 
+## 📊 Running Dashboard
+
+### 2D Scene Visualization
+
+To explore scenes with a 2D view based on natural language prompts:
+
+```bash
+streamlit run dashboard.py
+```
+
+This launches a web interface where you can:
+- Input natural language queries
+- View the corresponding 2D scene visualizations
+- Browse through all available scenes in the database
+- Analyze object detection and grounding results
+
+### 3D Scene Visualization
+
+For interactive 3D visualization of scenes:
+
+```bash
+./scripts/demo.sh
+```
+
+This launches the 3D viewer where you can:
+- Navigate through 3D scans
+- View object predictions in 3D space
+- Interactively test grounding results
+- Examine spatial relationships between objects
+
+Both visualization tools should be run from the root directory of the project.
+
 ## 🔧 (Optional) Relation Encoder Generation
 
 Run the relation encoder optimization script:
@@ -139,3 +171,4 @@ Thanks to the following repositories for their contributions:
 * [3D-Visual-Grounding](https://github.com/example/3d-visual-grounding)
 
 ## 📝 License
+MIT License
