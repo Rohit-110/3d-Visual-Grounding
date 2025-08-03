@@ -796,7 +796,7 @@ async def main():
 
     elif args.llm == "openai":
         openai_client = AsyncOpenAI(
-            api_key="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",
+            api_key=ENTER API KEY,
         )
         model_name = "gpt-4o"
 
