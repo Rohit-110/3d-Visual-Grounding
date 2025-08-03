@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import time
 
 load_dotenv()
-GEMINI_API_KEY = "AIzaSyCTNWic7m_rbMnNIXCD0BnKj4KVbQhAXZE"
+GEMINI_API_KEY = ENTER_YOUR_API
 
 if not GEMINI_API_KEY:
     print("API Key not found in .env or environment!")
