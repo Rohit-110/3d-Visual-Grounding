@@ -1,1 +1,1 @@
-python -m src.check3 --scan_id scene0025_00 --sentence " I am bored, i want to watch a movie"
+python -m src.check3 --scan_id scene0025_00 --sentence "i want to watch a movie"
